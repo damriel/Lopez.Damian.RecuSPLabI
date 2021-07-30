@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1627599984 source:c:\users\usuario\desktop\recu 2do parcial labo\lopez.damian.recusplabi\lopezdamianrsplabi\dam.c
+	<ctype.h>
+	"dam.h"
+
+1627599199 c:\users\usuario\desktop\recu 2do parcial labo\lopez.damian.recusplabi\lopezdamianrsplabi\dam.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+
+1627601393 source:c:\users\usuario\desktop\recu 2do parcial labo\lopez.damian.recusplabi\lopezdamianrsplabi\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"bicicleta.h"
+	"parser.h"
+	"dam.h"
+
+1625528280 c:\users\usuario\desktop\recu 2do parcial labo\lopez.damian.recusplabi\lopezdamianrsplabi\linkedlist.h
+
+1627601331 c:\users\usuario\desktop\recu 2do parcial labo\lopez.damian.recusplabi\lopezdamianrsplabi\bicicleta.h
+
+1627597295 c:\users\usuario\desktop\recu 2do parcial labo\lopez.damian.recusplabi\lopezdamianrsplabi\parser.h
+
+1627597618 source:c:\users\usuario\desktop\recu 2do parcial labo\lopez.damian.recusplabi\lopezdamianrsplabi\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"bicicleta.h"
+	"dam.h"
+
+1627602603 source:c:\users\usuario\desktop\recu 2do parcial labo\lopez.damian.recusplabi\lopezdamianrsplabi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"dam.h"
+	"LinkedList.h"
+	"Controller.h"
+	"bicicleta.h"
+
+1627601880 c:\users\usuario\desktop\recu 2do parcial labo\lopez.damian.recusplabi\lopezdamianrsplabi\controller.h
+
+1627597311 source:c:\users\usuario\desktop\recu 2do parcial labo\lopez.damian.recusplabi\lopezdamianrsplabi\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"bicicleta.h"
+	"parser.h"
+
+1627602757 source:c:\users\usuario\desktop\recu 2do parcial labo\lopez.damian.recusplabi\lopezdamianrsplabi\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"bicicleta.h"
+
